@@ -12,7 +12,7 @@ Below there is a screenshot showing the operation of the application.<br>
 * go 1.15.8<br>
 * SDL 2.0.14<br>
 ## Launching the application:
-To run this application, install it locally using npm:<br>
+To run this application, install GO and SDL2, go to the folder with the app.go file and type in the terminal:<br>
 ```
 $ go run app.go
 ```
